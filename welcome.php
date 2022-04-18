@@ -41,7 +41,7 @@ if(isset($_SERVER['REQUEST_METHOD']) == "POST")
 <!-- Main content -->
 
 
-<h3>RoboTech technologies, has the following sofware ready for hire/bying just enter you details an a working phone number, the highest bidder will be contacted.. </h3><br>
+<h3>RoboTech technologies, has the following sofware ready for hire/bying just enter you details and a working phone number, the highest bidder will be contacted.. </h3><br>
 <div class="container-fluid">
   <div class="row row-cols-2 row-cols-md-4">
     <body>
